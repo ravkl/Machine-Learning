@@ -1,2 +1,2 @@
 # Machine-Learning
-Курс МО-1 
+Course of ML at HSE
